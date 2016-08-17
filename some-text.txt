@@ -1,2 +1,3 @@
 Some Text
 Another Line
+-*-*-*-
